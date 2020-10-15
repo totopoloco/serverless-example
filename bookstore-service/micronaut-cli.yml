@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: bookstore.service
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, gradle, http-client, java, java-application, jib, junit, kubernetes, logback, management, netflix-hystrix, netty-server, readme, yaml]
